@@ -58,9 +58,8 @@ More projects coming soon.
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with me
 
-You can also find me on **LinkedIn**.
+[LinkedIn](https://www.linkedin.com/in/frederico-arruda-379a89414)
 
 *Always learning, building and exploring the intersection between software, automation and IoT.*
-
