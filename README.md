@@ -39,22 +39,11 @@ Alongside my professional experience, I'm expanding my knowledge in backend and 
 * Vue.js
 * Backend development and REST APIs
 * Full-stack application development
+* TypeScript
 
 ## 🚀 Projects
 
 I'm currently working on personal projects to explore software development beyond my professional environment.
-
-### Training Tracker — 🚧 In development
-
-A full-stack application designed to centralize different types of training in a single platform, including:
-
-* 🏋️ Strength training
-* 🏃 Running
-* 🥊 Combat sports
-
-The project is being developed as both a practical application and a way to explore database design, REST APIs, frontend development and software architecture.
-
-More projects coming soon.
 
 ---
 
