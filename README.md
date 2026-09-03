@@ -93,7 +93,36 @@ Automation systems
 
 ## `fred@github:~$ ls ./projects`
 
-### 🏋️ `training-tracker/` — 🚧 Work in progress
+### 💿 [`music-album-api/`](https://github.com/Fred-Arruda/music-album-api) — ✅ Available
+
+```console
+A REST API built with Node.js, Express and SQLite for
+managing a personal music album collection.
+
+Built as a hands-on backend project focused on understanding
+how REST APIs work and applying backend fundamentals.
+
+Features:
+├── create and list music albums
+├── update album information
+├── delete albums
+├── rating validation
+├── HTTP status handling
+├── centralized error handling
+└── SQLite data persistence
+
+Tech:
+├── JavaScript
+├── Node.js
+├── Express
+└── SQLite
+```
+
+> A learning-focused project developed incrementally to practice REST API design, CRUD operations, validation, error handling and database integration.
+
+---
+
+### 🏋️ `training-tracker/` — 🚧 Planned / In development
 
 ```console
 A multi-sport training platform designed to keep different
@@ -112,13 +141,7 @@ Goals:
 └── web interface
 ```
 
-> Currently being developed as a practical full-stack project while I expand my knowledge of databases, backend development and software architecture.
-
-<!-- When the repository is public, add:
-[View repository →](YOUR_REPOSITORY_URL)
--->
-
----
+> A future full-stack project designed to apply and expand my knowledge of databases, backend development, frontend development and software architecture.
 
 ## `fred@github:~$ git log --oneline --future`
 
